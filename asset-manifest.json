@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.12e8c8c3.chunk.css",
+    "main.css": "/static/css/main.330f9e7b.chunk.css",
     "main.js": "/static/js/main.6044383f.chunk.js",
     "main.js.map": "/static/js/main.6044383f.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.e9230eee.chunk.js": "/static/js/2.e9230eee.chunk.js",
     "static/js/2.e9230eee.chunk.js.map": "/static/js/2.e9230eee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fb8ccd0907875e3acb0adff54c89526d.js": "/precache-manifest.fb8ccd0907875e3acb0adff54c89526d.js",
+    "precache-manifest.8ae98f8a65220b5f62b0ac5690c62f7f.js": "/precache-manifest.8ae98f8a65220b5f62b0ac5690c62f7f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.12e8c8c3.chunk.css.map": "/static/css/main.12e8c8c3.chunk.css.map",
+    "static/css/main.330f9e7b.chunk.css.map": "/static/css/main.330f9e7b.chunk.css.map",
     "static/media/header.css": "/static/media/dino-reichmuth-123637-unsplash.a0874816.jpg",
     "static/media/imgone.jpg": "/static/media/imgone.cdf4bf82.jpg"
   }
