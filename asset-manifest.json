@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bc92ff3.chunk.css",
-    "main.js": "/static/js/main.6044383f.chunk.js",
-    "main.js.map": "/static/js/main.6044383f.chunk.js.map",
+    "main.css": "/static/css/main.e4c1e9e9.chunk.css",
+    "main.js": "/static/js/main.12c25cb6.chunk.js",
+    "main.js.map": "/static/js/main.12c25cb6.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.e9230eee.chunk.js": "/static/js/2.e9230eee.chunk.js",
     "static/js/2.e9230eee.chunk.js.map": "/static/js/2.e9230eee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bcfd8ca7f10a6b53e6a9ba7c17b5e5cb.js": "/precache-manifest.bcfd8ca7f10a6b53e6a9ba7c17b5e5cb.js",
+    "precache-manifest.1e47b123504eb8addc15d8617974158f.js": "/precache-manifest.1e47b123504eb8addc15d8617974158f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4bc92ff3.chunk.css.map": "/static/css/main.4bc92ff3.chunk.css.map",
+    "static/css/main.e4c1e9e9.chunk.css.map": "/static/css/main.e4c1e9e9.chunk.css.map",
     "static/media/header.css": "/static/media/dino-reichmuth-123637-unsplash.a0874816.jpg",
     "static/media/imgone.jpg": "/static/media/imgone.cdf4bf82.jpg"
   }
